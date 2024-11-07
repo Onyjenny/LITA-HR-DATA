@@ -18,6 +18,18 @@ The primary objectives of this project include:
 
 ### Data Source
 
+The primary source of data used here is Hr data.xlsx which was provided by the INCUBATOR HUB as a classwork for every student. 
+
+### Methodology
+This project employeed a structured approach involving PowerBI for:
+
+1. data cleaning
+2. analysis and visualization
+3. extraction and manipulation of data
+4. visualization and report
+ - Github for portfolio building.
+
+
 ### Methodology
 
 ### Data Cleaning and preparation
