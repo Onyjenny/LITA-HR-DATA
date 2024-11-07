@@ -29,7 +29,9 @@ This project employeed a structured approach involving PowerBI for:
 4. visualization and report
  - Github for portfolio building.
 
+### Data Cleaning and Preparation
 
-### Methodology
-
-### Data Cleaning and preparation
+In the initial phase of the data cleaning and preparation,the following actions was performed;
+1. data loading and inspections
+2. handling missing variables
+3. data cleaning and formatting
