@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-In an era where human capital is the backbone of organizational succes,understanding and optimizing the workforce is paramount. This project aims to harness data-driven insights to enhance employee satisfaction, productivity, and overall organizational efficiency.
+In an era where human capital is the backbone of organizational success,understanding and optimizing the workforce is paramount. This project aims to harness data-driven insights to enhance employee satisfaction, productivity, and overall organizational efficiency.
 
 ### Project Objectives
 
@@ -35,3 +35,7 @@ In the initial phase of the data cleaning and preparation,the following actions 
 1. data loading and inspections
 2. handling missing variables
 3. data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions about the data such as;
+
