@@ -8,4 +8,12 @@ In an era where human capital is the backbone of organizational succes,understan
 
 ### Project Objectives
 
+The primary objectives of this project include:
 
+Identifying Key Employee Trends: Uncover patterns in employee demographics, tenure, and performance.
+
+Understanding Attrition and Retention: Analyze factors contributing to employee turnover and develop strategies to improve retention.
+
+Optimizing Recruitment: Assess recruitment processes to identify the most effective channels and strategies.
+
+Enhancing Employee Engagement: Gauge employee engagement levels and pinpoint areas for improvement.
