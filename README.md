@@ -38,4 +38,14 @@ In the initial phase of the data cleaning and preparation,the following actions 
 
 ### Exploratory Data Analysis
 EDA involved the exploring of the data to answer some questions about the data such as;
+1. What is the total number of Employee?
+2. What is the total count of Attrition?
+3. What is the total number of Current Employee?
+4. Calculate the rate of Attrition?
+5. What is the average Age?
+6. What is the count of Attrition by Department?
+7. What is the count of Attrition by Education field?
+8. What is the count of Attrition by Gender?
+9. What is the total number of Current Employee by their Age group?
+10. What is the total number of Current Employee by their Marital status and Gender?  
 
