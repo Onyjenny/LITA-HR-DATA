@@ -47,5 +47,8 @@ EDA involved the exploring of the data to answer some questions about the data s
 7. What is the count of Attrition by Education field?
 8. What is the count of Attrition by Gender?
 9. What is the total number of Current Employee by their Age group?
-10. What is the total number of Current Employee by their Marital status and Gender?  
+10. What is the total number of Current Employee by their Marital status and Gender?
+
+### Results and Interpretation
+
 
