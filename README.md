@@ -50,5 +50,8 @@ EDA involved the exploring of the data to answer some questions about the data s
 10. What is the total number of Current Employee by their Marital status and Gender?
 
 ### Results and Interpretation
+The analysis revealed several significant insights:
 
+High Attrition Segments: Certain departments and roles exhibit higher turnover rates, influenced by factors such as job satisfaction and growth opportunities.
 
+### Visualization
