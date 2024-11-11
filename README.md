@@ -53,4 +53,7 @@ The analysis revealed several significant insights:
 
 High Attrition Segments: Certain departments and roles exhibit higher turnover rates, influenced by factors such as job satisfaction and growth opportunities.
 
-### Visualization
+### Visualization 
+<img width="611" alt="HR 1" src="https://github.com/user-attachments/assets/ea20cda4-f405-4153-a5ce-1aa6a2397aa8">
+
+<img width="596" alt="HR 2" src="https://github.com/user-attachments/assets/170d5987-332e-45e1-b8cf-0327f3ecb064">
