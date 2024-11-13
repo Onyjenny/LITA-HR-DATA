@@ -51,9 +51,15 @@ EDA involved the exploring of the data to answer some questions about the data s
 ### Results and Interpretation
 The analysis revealed several significant insights:
 
-High Attrition Segments: Certain departments and roles exhibit higher turnover rates, influenced by factors such as job satisfaction and growth opportunities.
+High Attrition Segments: Certain departments and roles exhibit higher turnover rates, influenced by factors such as job satisfaction and growth opportunities such as Laboratory Technichians,who are very disatisfied with their job with a number of 20,sales executive 16,research scientist 13 and these departments are still top on being disatisfied with their job.These department needs to be focused on,in order to reduce the attrition rate from 16%.They could be angry about a pending allowance not being paid for yet or they were promised a salary raise and the promise is not yet fufilled.
+Engagement Initiatives: Develop programs to enhance recognition, work-life balance, and career development opportunities.
 
 ### Visualization 
 <img width="611" alt="HR 1" src="https://github.com/user-attachments/assets/ea20cda4-f405-4153-a5ce-1aa6a2397aa8">
 
 <img width="596" alt="HR 2" src="https://github.com/user-attachments/assets/170d5987-332e-45e1-b8cf-0327f3ecb064">
+
+
+### Conclusion
+The project underscores the importance of leveraging data to understand and enhance the workforce. By implementing data-driven insights, organizations can improve employee satisfaction, optimize recruitment processes,reduce retention and ultimately drive organizational success.
+
