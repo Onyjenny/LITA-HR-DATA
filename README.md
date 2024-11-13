@@ -61,5 +61,5 @@ Engagement Initiatives: Develop programs to enhance recognition, work-life balan
 
 
 ### Conclusion
-The project underscores the importance of leveraging data to understand and enhance the workforce. By implementing data-driven insights, organizations can improve employee satisfaction, optimize recruitment processes,reduce retention and ultimately drive organizational success.
+The project underscores the importance of leveraging data to understand and enhance the workforce. By implementing data-driven insights, organizations can improve employee satisfaction, optimize recruitment processes,reduce attrition and ultimately drive organizational success.
 
